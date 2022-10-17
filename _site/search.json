@@ -12,5 +12,26 @@
     "title": "About",
     "section": "",
     "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "This is"
+  },
+  {
+    "objectID": "intro.html#project-tasks",
+    "href": "intro.html#project-tasks",
+    "title": "Introduction",
+    "section": "Project Tasks",
+    "text": "Project Tasks\nThe project tasks are as follows:\n\nto compile the necessary data\nto derive new data sets"
+  },
+  {
+    "objectID": "intro.html#the-data",
+    "href": "intro.html#the-data",
+    "title": "Introduction",
+    "section": "The Data",
+    "text": "The Data\nThe following data sets will be used :"
   }
 ]
